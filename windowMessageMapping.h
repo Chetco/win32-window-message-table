@@ -271,7 +271,7 @@ inline const char *win32NameLookupTableForWM[] = {
     "WM_SYSCHAR",
     "WM_SYSDEADCHAR",
     "", // 0x108
-    "WM_UNICHAR / ,WM_KEYLAST"
+    "WM_UNICHAR / ,WM_KEYLAST",
     "", // 0x10A
     "", // 0x10B
     "", // 0x10C
@@ -533,7 +533,7 @@ inline const char *win32NameLookupTableForWM[] = {
     "WM_XBUTTONDBLCLK",
     "WM_MOUSEHWHEEL",
     "", // 0x20F
-    "WM_PARENTNOTIFY"
+    "WM_PARENTNOTIFY",
     "WM_ENTERMENULOOP",
     "WM_EXITMENULOOP",
     "WM_NEXTMENU",
